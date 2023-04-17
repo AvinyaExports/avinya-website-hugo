@@ -135,6 +135,11 @@ Contribution to the source code and documentation are highly welcome, there are 
 
 _TODO_
 
+## Hosting
+
+Use Hostinger
+[Hostinger git configuration page](https://hpanel.hostinger.com/hosting/avinyaexports.com/advanced/git)
+
 ## License
 
 [The MIT License](https://github.com/AminZibayi/Corporio/blob/master/LICENSE)
