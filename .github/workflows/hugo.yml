@@ -31,7 +31,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.108.0
-      CACHE_DIR: ${{ runner.temp }}/cache
+      # CACHE_DIR: ${{ runner.temp }}/cache
     steps:
       - name: Install Hugo CLI
         run: |
