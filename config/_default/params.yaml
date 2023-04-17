@@ -10,7 +10,7 @@ images:
   - favicon.ico
 ogLocale: en_US
 # Used in Open Graph
-titleHome: Helmani Food
+titleHome: Avinya Exports
 twitterSite: "@gethyas"
 twitterCreator: "@henkverlinde"
 # It may be Person
@@ -65,18 +65,18 @@ alertText: >-
   the free enterprise paper →</a>
 blogPageURL: blog
 contactLink: contact
-copyright: All right reserved copyright © Helmani 2022
+copyright: All right reserved copyright © Avinya Exports 2023
 footerLogo: images/site-navigation/logo.png
 footerContact:
   topTitle: Let's Start
   title: The Start of a Dream
   button: Get in Touch
-fabformURL: "https://fabform.io/f/JpTXRUa"
+fabformURL: "https://fabform.io/f/cA688dq"
 googleAnalytics: YOUR GOOGLE ANALYTICS CODE
 logo: images/site-navigation/logo.png
 address:
-  address: "20 Piroozi, Sattar Khan, Tehran."
-  email: info@helmani.com
+  address: "H.NO-37, Near AIIMS Guwahati, Changsari, India."
+  email: info@avinyaexports.com
   openingHours: Open from 10am to 6pm (close at 5pm Sundays)
   phone: (+98) 911 86 2774
 map:
